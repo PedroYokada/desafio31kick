@@ -4,14 +4,9 @@
 
 Adicione mais dois componentes no seu projeto. (Na entrega deve totalizar, pelo menos, 4 componentes)
 
-Crie um repositorio com um arquivo readme.me dizendo o que usou na sua página, colocando os links das documentações.
-
-
+ENUNCIADO: Crie um repositorio com um arquivo readme.me dizendo o que usou na sua página, colocando os links das documentações.
 Exemplo: Se usou uma navbar, um formulário, um botão e um footer, os 4 links da documentação que aborda cada elemento deve estar no readme.md. 
-
-
 O repositório enviado deve conter o arquivo da página (o index.html, por exemplo) e o arquivo readme.
-
 Não deve ser usado css, apenas bootstrap.
 
 Como diz o enunciado, o objetivo deste projeto é fazer aplicação das ferramentas do Bootstrap sem a utilização do CSS. Foi muito interessante utilizar este framework. Vou pontuar minhas experiências utilizando o Bootstrap. O lado positivo de utilizar ele é que os componentes são responsivos, 
