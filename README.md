@@ -18,6 +18,18 @@ Obviamente, não está totalmente igual, mas coloquei os mesmos elementos. Foi u
 
 Por fim, no meu projeto, utilizei uma navbar, um carrossel, quatro cards, uma tag h3 e um footer.
 
+Links da documentação do bootstrap:
+
+-Navbar: https://getbootstrap.com/docs/4.0/components/navbar/
+<br>
+-Cards: https://getbootstrap.com/docs/4.0/components/card/
+<br>
+-Carrossel: https://getbootstrap.com/docs/5.3/components/carousel/
+<br>
+-Footer: https://getbootstrap.com/docs/5.3/examples/headers/#
+<br>
+-h3: https://getbootstrap.com/docs/4.0/content/typography/
+
 Abaixo, segue a tela do meu projeto web que utilizei de inspiração para este projeto usando Bootstrap.
 
 Caso queira acessar o meu projeto web, os links também estarão abaixo.
